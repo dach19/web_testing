@@ -1,0 +1,20 @@
+{
+  "name": "web_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome:userProfile tests/suites/ --skip-js-errors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dach19/web_testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dach19/web_testing/issues"
+  },
+  "homepage": "https://github.com/dach19/web_testing#readme"
+}
